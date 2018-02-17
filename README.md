@@ -13,7 +13,7 @@ This is a standard node.js microservice. Use the following npm commands:
 * **npm run build** - transpiles the source code with babel
 * **npm run serve** - starts the babel-transpiled server
 
-Server runs by default on port 4100. Use http://localhost:4100/videos?sorted=true to get a sorted JSON list of videos.
+Server runs by default on port 4100. Use http://localhost:4100/v1/api/videos?sorted=true to get a sorted JSON list of videos.
 
 ## Modules ##
 
