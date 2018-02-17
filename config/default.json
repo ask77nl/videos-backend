@@ -1,0 +1,13 @@
+{
+  "version": "v1",
+  "port": 4100,
+  "cmsSvc": {
+    "host": "https://s3.amazonaws.com",
+    "path": "/bc-gallery-interview/"
+  },
+  "mediaSvc": {
+    "host": "https://s3.amazonaws.com",
+    "path": "/bc-gallery-interview/"
+  },
+  "dataRequestTimeout": 10000
+}
